@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Android下Shadowsocks的配置方法
 category: Shadowsocks
 keywords: Shadowsocks, ss, Android客户端
