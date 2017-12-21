@@ -2,8 +2,9 @@
 layout: post
 title: Android下Shadowsocks的配置方法
 category: Shadowsocks
-keywords: Shadowsocks, ss, Android客户端
+keywords: HTML
 ---
+
 # Android配置Shadowsocks客户端教程
 
 ## 下载并启动Shadowsocks Android客户端
