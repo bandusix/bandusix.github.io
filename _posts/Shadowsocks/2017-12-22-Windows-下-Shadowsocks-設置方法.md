@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Android下Shadowsocks的配置方法
+title: Windows下Shadowsocks設置方法
 category: Shadowsocks
 keywords: Shadowsocks, ss
 ---
 
-#Windows 下 Shadowsocks 設置方法
+##Windows 下 Shadowsocks 設置方法
+
 ## 1、下載客戶端
 
 我們推薦您使用最新版本的客戶端，點擊[這裏](https://github.com/shadowsocks/shadowsocks-windows/releases)下載最新的客戶端
