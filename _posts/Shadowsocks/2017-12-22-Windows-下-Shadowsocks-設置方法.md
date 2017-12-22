@@ -5,7 +5,7 @@ category: Shadowsocks
 keywords: Shadowsocks, ss
 ---
 
-##Windows 下 Shadowsocks 設置方法
+## Windows 下 Shadowsocks 設置方法
 
 ## 1、下載客戶端
 
