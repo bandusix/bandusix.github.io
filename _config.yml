@@ -29,7 +29,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-111523305-1
-  url: https://www.googletagmanager.com/gtag/js?id=UA-111523305-1
+  url: bandusix.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
