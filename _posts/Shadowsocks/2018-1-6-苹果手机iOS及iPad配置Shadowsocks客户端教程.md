@@ -21,11 +21,9 @@ keywords: Shadowsocks, ss
 
 ![FirstWingy][2]
 
-
 ## 配置信息
 
 以上任意一个应用找到输入服务器、端口、密码、代理模式、加密方式的输入位置，把**提供的**信息填入启动按钮即可科学上网
-
 > ![配置信息页][3]
 
   [1]: http://me.wpee.me/wp-content/uploads/2017/12/0060lm7Tly1fliacu5ikoj30kw0l0gto.jpg
