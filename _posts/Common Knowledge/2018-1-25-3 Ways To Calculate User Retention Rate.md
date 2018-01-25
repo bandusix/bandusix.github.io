@@ -2,7 +2,7 @@
 layout: post
 title: 3 Ways To Calculate User Retention Rate
 category: Common Knowledge
-keywords: 留存，Retention Rate, Rolling Retetion, Range Retention
+keywords: 留存,Retention Rate, Rolling Retetion, Range Retention
 ---
 
 ## The 3 most popular methods are classic, range, and rolling retention.
