@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways To Calculate User Retention Rate
-category: Common Knowledge
+category: Knowledge
 keywords: 留存,Retention Rate, Rolling Retetion, Range Retention
 ---
 
