@@ -5,7 +5,7 @@ category: Common Knowledge
 keywords: 留存,Retention Rate, Rolling Retetion, Range Retention
 ---
 
-## The 3 most popular methods are classic, range, and rolling retention.
+## The 3 most popular methods are classic, range, and rolling retention
 
 
 **Classic retention**, also known as Day N or Retention by Day, is the percent of new users who come back on a specific day.
@@ -20,7 +20,7 @@ keywords: 留存,Retention Rate, Rolling Retetion, Range Retention
 
 ![Rolling Retention](https://i0.wp.com/www.braze.com/wp-content/uploads/2016/10/AB1016_BLOG_USER-RETENTION_3_826x138R.jpeg)
 
-## Classic Retention##
+## Classic Retention
 
 Imagine you have 10 users who first use your app on Monday, the first of the month. Three of those users come back the next day on Tuesday, the second of the month, and two come back the following day on Wednesday, the third of the month. Your Day 1 retention rate is 3/10 or 30%. Your Day 2 retention rate is 2/10 or 20%. If five people were to come back 89 days from Monday the 1st (not shown), your Day 90 retention rate would be 5/10 or 50%.
 
@@ -41,7 +41,7 @@ Limitations
  - Sensitive to noise from whatever may be happening on a specific day
  
 
-## Range Retention##
+## Range Retention
 While any interval of time can be used, 7-day weekly ranges or 30-day monthly ranges tend to be the most common and intuitive. Let’s look at an example using a 7-day weekly range.
 
 You have 10 new users every day for five days during the first week. On Saturday, the 6th of the month, six users come back. Some time during the subsequent week, nine unique users come back, five on the 8th and four on the 13th. In the third week, three users come back, all on the 21st. The first period retention is 9/50 or 18%. The second period retention is 3/50 or 6%.
@@ -65,7 +65,7 @@ Limitations
  - Longer lag time since you have to wait multiples of your date range
    for results
 
-## Rolling Or Return Retention##
+## Rolling Or Return Retention
 Sometimes you want just one simple answer. Rather than combing over how many users are coming back today vs. tomorrow, or in two weeks vs. in three weeks, you just want to know how many customers you’ve successfully built a long-term relationship with. Rolling retention gives you that one number. Of course, is has its blind spots, too, which we’ll discuss.
 
 To understand how rolling retention is calculated, let’s go back to our example of 10 new users on the first of the month. On the 7th, user A comes back. On the 10th, user B comes back. On the 15th, user C comes back and again on the 16th. Your Day 7 retention is 3/10 or 30% because users A, B, and C all came back on Day 7 or after. Your Day 14 retention is 1/10 or 10% because only user C came back on or after Day 14.
