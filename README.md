@@ -1,7 +1,7 @@
 ### 我的博客
 
 地址：[bandusix.github.io](https://bandusix.github.io) 
-forked from [suyan.github.io](https://github.com/suyan/suyan.github.io)
+
 
 ### 安装说明
 
